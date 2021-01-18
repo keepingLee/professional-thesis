@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2021.1.7)  18 JAN 2021 13:23
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2021.1.7)  18 JAN 2021 15:42
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1336,14 +1336,14 @@ Overfull \hbox (10.65086pt too wide) in paragraph at lines 17--17
 \openout2 = `misc/chinese_abstract.aux'.
 
  (./misc/chinese_abstract.tex
-Overfull \hbox (2.0pt too wide) in paragraph at lines 10--11
+Overfull \hbox (2.0pt too wide) in paragraph at lines 31--32
 [] []
  []
 
 LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/m/sl' in size <12> not avai
 lable
 (Font)              Font shape `TU/TimesNewRoman(0)/m/it' tried instead on inpu
-t line 11.
+t line 32.
 [1
 
 
@@ -1508,10 +1508,10 @@ Package rerunfilecheck Info: File `main_file.out' has not changed.
 (rerunfilecheck)             Checksum: A196B303AF14E325F58FC9C82DD4F2FA;3621.
  ) 
 Here is how much of TeX's memory you used:
- 26210 strings out of 479418
- 492862 string characters out of 5888106
+ 26241 strings out of 479418
+ 494756 string characters out of 5888106
  883761 words of memory out of 5000000
- 43061 multiletter control sequences out of 15000+600000
+ 43092 multiletter control sequences out of 15000+600000
  580592 words of font info for 141 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  60i,12n,88p,1106b,632s stack positions out of 5000i,500n,10000p,200000b,80000s
