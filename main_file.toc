@@ -58,10 +58,14 @@
 \setcounter {tocdepth}{0}
 \contentsline {chapter}{致\hspace {12pt}谢}{11}{chapter*.10}%
  \cftsetpnumwidth {\widthof {12}-1pt} 
-\contentsline {chapter}{附录}{12}{chapter*.11}%
+\contentsline {chapter}{参考文献}{12}{chapter*.11}%
  \cftsetpnumwidth {\widthof {13}-1pt} 
-\contentsline {chapter}{外文资料原文}{13}{chapter*.12}%
-\contentsline {section}{\numberline {5.1}A Tight Upper Bound on Bit Error Rate}{13}{section.5.1}%
+\contentsline {chapter}{附录}{13}{chapter*.12}%
  \cftsetpnumwidth {\widthof {14}-1pt} 
-\contentsline {chapter}{外文资料译文}{14}{chapter*.13}%
-\contentsline {section}{\numberline {5.1}基于多载波索引键控的正交频分多路复用系统模型}{14}{section.5.1}%
+\contentsline {chapter}{攻读硕士{}学位期间取得的成果}{14}{chapter*.13}%
+ \cftsetpnumwidth {\widthof {15}-1pt} 
+\contentsline {chapter}{外文资料原文}{15}{chapter*.14}%
+\contentsline {section}{\numberline {5.1}A Tight Upper Bound on Bit Error Rate}{15}{section.5.1}%
+ \cftsetpnumwidth {\widthof {16}-1pt} 
+\contentsline {chapter}{外文资料译文}{16}{chapter*.15}%
+\contentsline {section}{\numberline {5.1}基于多载波索引键控的正交频分多路复用系统模型}{16}{section.5.1}%

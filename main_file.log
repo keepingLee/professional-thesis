@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2021.1.7)  14 JAN 2021 21:06
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2021.1.7)  18 JAN 2021 13:23
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1378,53 +1378,6 @@ Overfull \hbox (2.0pt too wide) in paragraph at lines 8--9
 
  (./chapter/exordium.tex
 Chapter 第一章.
-
-LaTeX Warning: Citation `wang1999sanwei' on page 1 undefined on input line 9.
-
-
-LaTeX Warning: Citation `liuxf2006' on page 1 undefined on input line 9.
-
-
-LaTeX Warning: Citation `zhu1973wulixue' on page 1 undefined on input line 9.
-
-
-LaTeX Warning: Citation `chen2001hao' on page 1 undefined on input line 9.
-
-
-LaTeX Warning: Citation `gu2012lao' on page 1 undefined on input line 9.
-
-
-LaTeX Warning: Citation `feng997he' on page 1 undefined on input line 9.
-
-
-LaTeX Warning: Citation `xiao2012yi' on page 1 undefined on input line 9.
-
-
-LaTeX Warning: Citation `zhong1994zhong' on page 1 undefined on input line 9.
-
-
-LaTeX Warning: Citation `clerc2010discrete' on page 1 undefined on input line 9
-.
-
-
-LaTeX Warning: Citation `wang1999sanwei' on page 1 undefined on input line 9.
-
-
-LaTeX Warning: Citation `zhu1973wulixue' on page 1 undefined on input line 9.
-
-
-LaTeX Warning: Citation `gu2012lao' on page 1 undefined on input line 9.
-
-
-LaTeX Warning: Citation `feng997he' on page 1 undefined on input line 11.
-
-
-LaTeX Warning: Citation `xiao2012yi' on page 1 undefined on input line 11.
-
-
-LaTeX Warning: Citation `clerc2010discrete' on page 1 undefined on input line 1
-1.
-
 ) [1
 
 
@@ -1456,11 +1409,7 @@ File: ./pic/picb.pdf Graphic file (type pdf)
 <use ./pic/picb.pdf>
 File: ./pic/picc.pdf Graphic file (type pdf)
 <use ./pic/picc.pdf>
-
-
-LaTeX Warning: Citation `xiao2012yi' on page 3 undefined on input line 63.
-
-[3]
+ [3]
 Package hyperref Info: bookmark level for unknown algorithm defaults to 0 on in
 put line 90.
  [4]) [5]
@@ -1513,26 +1462,30 @@ Chapter 第五章.
 
 
 
+] (./main_file.bbl) [12
+
+
 ]
-No file main_file.bbl.
 \openout2 = `misc/appendix.aux'.
 
-(./misc/appendix.tex) [12
 
+(./misc/appendix.tex) [13
+
+
+] (./achievement.bbl) [14
 
 
 ]
-No file achievement.bbl.
 \openout2 = `misc/translate_original.aux'.
 
-(./misc/translate_original.tex) [13
 
+(./misc/translate_original.tex) [15
 
 
 ]
 \openout2 = `misc/translate_chinese.aux'.
 
- (./misc/translate_chinese.tex) [14
+ (./misc/translate_chinese.tex) [16
 
 
 
@@ -1551,26 +1504,16 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 44.
 (./misc/translate_chinese.aux))
 Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 44.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 44.
-
-
-Package rerunfilecheck Warning: File `main_file.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `main_file.out':
-(rerunfilecheck)             Before: AFC09284967704563A72E87A9AD271DB;3488
-(rerunfilecheck)             After:  E86A57809A8E4E01B2A81F4874C9D8F7;3494.
-
-LaTeX Warning: There were undefined references.
-
+Package rerunfilecheck Info: File `main_file.out' has not changed.
+(rerunfilecheck)             Checksum: A196B303AF14E325F58FC9C82DD4F2FA;3621.
  ) 
 Here is how much of TeX's memory you used:
- 26163 strings out of 479418
- 490585 string characters out of 5888106
- 883102 words of memory out of 5000000
- 43018 multiletter control sequences out of 15000+600000
+ 26210 strings out of 479418
+ 492862 string characters out of 5888106
+ 883761 words of memory out of 5000000
+ 43061 multiletter control sequences out of 15000+600000
  580592 words of font info for 141 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  60i,12n,88p,1106b,632s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on main_file.pdf (26 pages).
+Output written on main_file.pdf (28 pages).
