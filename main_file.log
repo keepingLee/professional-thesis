@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2021.1.7)  27 JAN 2021 13:31
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2021.1.7)  9 FEB 2021 13:45
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1336,14 +1336,14 @@ Overfull \hbox (10.65086pt too wide) in paragraph at lines 17--17
 \openout2 = `misc/chinese_abstract.aux'.
 
  (./misc/chinese_abstract.tex
-Overfull \hbox (2.0pt too wide) in paragraph at lines 36--37
+Overfull \hbox (2.0pt too wide) in paragraph at lines 37--38
 [] []
  []
 
 LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/m/sl' in size <12> not avai
 lable
 (Font)              Font shape `TU/TimesNewRoman(0)/m/it' tried instead on inpu
-t line 37.
+t line 38.
 [1
 
 
@@ -1378,10 +1378,10 @@ Overfull \hbox (2.0pt too wide) in paragraph at lines 8--9
 
  (./chapter/exordium.tex
 Chapter 第一章.
-) [1
+[1
 
 
-]
+]) [2]
 \openout2 = `chapter/c2.aux'.
 
  (./chapter/c2.tex
@@ -1400,7 +1400,7 @@ LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/bx/n' in size <6> not avail
 able
 (Font)              Font shape `TU/TimesNewRoman(0)/b/n' tried instead on input
  line 32.
-[2
+[3
 
 
 
@@ -1409,19 +1409,19 @@ File: ./pic/picb.pdf Graphic file (type pdf)
 <use ./pic/picb.pdf>
 File: ./pic/picc.pdf Graphic file (type pdf)
 <use ./pic/picc.pdf>
- [3]
+ [4]
 Package hyperref Info: bookmark level for unknown algorithm defaults to 0 on in
 put line 90.
- [4]) [5]
+ [5]) [6]
 \openout2 = `chapter/c3.aux'.
 
  (./chapter/c3.tex
 Chapter 第三章.
-[6
+[7
 
 
 
-]) [7]
+]) [8]
 \openout2 = `chapter/c4.aux'.
 
  (./chapter/c4.tex
@@ -1442,50 +1442,50 @@ File: ./pic/picd.pdf Graphic file (type pdf)
 <use ./pic/picd.pdf>
 File: ./pic/pice.pdf Graphic file (type pdf)
 <use ./pic/pice.pdf>
-[8
+[9
 
 
 
-]) [9]
+]) [10]
 \openout2 = `chapter/c5.aux'.
 
  (./chapter/c5.tex
 Chapter 第五章.
-) [10
+) [11
 
 
 
 ]
 \openout2 = `misc/acknowledgement.aux'.
 
- (./misc/acknowledgement.tex) [11
+ (./misc/acknowledgement.tex) [12
 
 
 
-] (./main_file.bbl) [12
+] (./main_file.bbl) [13
 
 
 ]
 \openout2 = `misc/appendix.aux'.
 
 
-(./misc/appendix.tex) [13
+(./misc/appendix.tex) [14
 
 
-] (./achievement.bbl) [14
+] (./achievement.bbl) [15
 
 
 ]
 \openout2 = `misc/translate_original.aux'.
 
 
-(./misc/translate_original.tex) [15
+(./misc/translate_original.tex) [16
 
 
 ]
 \openout2 = `misc/translate_chinese.aux'.
 
- (./misc/translate_chinese.tex) [16
+ (./misc/translate_chinese.tex) [17
 
 
 
@@ -1505,15 +1505,15 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 44.
 Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 44.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 44.
 Package rerunfilecheck Info: File `main_file.out' has not changed.
-(rerunfilecheck)             Checksum: A196B303AF14E325F58FC9C82DD4F2FA;3621.
+(rerunfilecheck)             Checksum: BBC98C9304C18A1BC5EECC3B826F8D5F;3621.
  ) 
 Here is how much of TeX's memory you used:
- 26241 strings out of 479418
- 494756 string characters out of 5888106
- 883762 words of memory out of 5000000
- 43092 multiletter control sequences out of 15000+600000
- 580592 words of font info for 141 fonts, out of 8000000 for 9000
+ 26027 strings out of 479418
+ 481996 string characters out of 5888106
+ 884810 words of memory out of 5000000
+ 42879 multiletter control sequences out of 15000+600000
+ 579864 words of font info for 138 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  60i,12n,88p,1106b,632s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on main_file.pdf (28 pages).
+Output written on main_file.pdf (29 pages).
