@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2021.1.7)  9 FEB 2021 13:45
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2021.1.7)  9 FEB 2021 16:47
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1388,30 +1388,30 @@ Chapter 第一章.
 Chapter 第二章.
 File: ./pic/pica.pdf Graphic file (type pdf)
 <use ./pic/pica.pdf>
-LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/bx/n' in size <12> not avai
-lable
-(Font)              Font shape `TU/TimesNewRoman(0)/b/n' tried instead on input
- line 32.
-LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/bx/n' in size <8> not avail
-able
-(Font)              Font shape `TU/TimesNewRoman(0)/b/n' tried instead on input
- line 32.
-LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/bx/n' in size <6> not avail
-able
-(Font)              Font shape `TU/TimesNewRoman(0)/b/n' tried instead on input
- line 32.
 [3
 
 
 
 ]
+LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/bx/n' in size <12> not avai
+lable
+(Font)              Font shape `TU/TimesNewRoman(0)/b/n' tried instead on input
+ line 38.
+LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/bx/n' in size <8> not avail
+able
+(Font)              Font shape `TU/TimesNewRoman(0)/b/n' tried instead on input
+ line 38.
+LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/bx/n' in size <6> not avail
+able
+(Font)              Font shape `TU/TimesNewRoman(0)/b/n' tried instead on input
+ line 38.
 File: ./pic/picb.pdf Graphic file (type pdf)
 <use ./pic/picb.pdf>
 File: ./pic/picc.pdf Graphic file (type pdf)
 <use ./pic/picc.pdf>
  [4]
 Package hyperref Info: bookmark level for unknown algorithm defaults to 0 on in
-put line 90.
+put line 96.
  [5]) [6]
 \openout2 = `chapter/c3.aux'.
 
@@ -1429,63 +1429,64 @@ Chapter 第四章.
 LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/bx/n' in size <10.5> not av
 ailable
 (Font)              Font shape `TU/TimesNewRoman(0)/b/n' tried instead on input
- line 25.
+ line 41.
 LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/bx/n' in size <7.34996> not
  available
 (Font)              Font shape `TU/TimesNewRoman(0)/b/n' tried instead on input
- line 25.
+ line 41.
 LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/bx/n' in size <5.25> not av
 ailable
 (Font)              Font shape `TU/TimesNewRoman(0)/b/n' tried instead on input
- line 25.
-File: ./pic/picd.pdf Graphic file (type pdf)
-<use ./pic/picd.pdf>
-File: ./pic/pice.pdf Graphic file (type pdf)
-<use ./pic/pice.pdf>
+ line 41.
 [9
 
 
 
-]) [10]
+]
+File: ./pic/picd.pdf Graphic file (type pdf)
+<use ./pic/picd.pdf>
+File: ./pic/pice.pdf Graphic file (type pdf)
+<use ./pic/pice.pdf>
+ [10]) [11]
 \openout2 = `chapter/c5.aux'.
 
  (./chapter/c5.tex
 Chapter 第五章.
-) [11
+) [12
 
 
 
 ]
 \openout2 = `misc/acknowledgement.aux'.
 
- (./misc/acknowledgement.tex) [12
+ (./misc/acknowledgement.tex) [13
 
 
 
-] (./main_file.bbl) [13
+] (./main_file.bbl) [14
 
 
 ]
 \openout2 = `misc/appendix.aux'.
 
 
-(./misc/appendix.tex) [14
+(./misc/appendix.tex) [15
 
 
-] (./achievement.bbl) [15
+] (./achievement.bbl) [16
 
 
 ]
 \openout2 = `misc/translate_original.aux'.
 
 
-(./misc/translate_original.tex) [16
+(./misc/translate_original.tex) [17
 
 
 ]
 \openout2 = `misc/translate_chinese.aux'.
 
- (./misc/translate_chinese.tex) [17
+ (./misc/translate_chinese.tex) [18
 
 
 
@@ -1504,16 +1505,23 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 44.
 (./misc/translate_chinese.aux))
 Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 44.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 44.
-Package rerunfilecheck Info: File `main_file.out' has not changed.
-(rerunfilecheck)             Checksum: BBC98C9304C18A1BC5EECC3B826F8D5F;3621.
+
+
+Package rerunfilecheck Warning: File `main_file.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `main_file.out':
+(rerunfilecheck)             Before: 6089407EF6745DB133CBD582A12EC39A;4386
+(rerunfilecheck)             After:  45C2A260A544F576F9489873528074F6;5580.
  ) 
 Here is how much of TeX's memory you used:
- 26027 strings out of 479418
- 481996 string characters out of 5888106
- 884810 words of memory out of 5000000
- 42879 multiletter control sequences out of 15000+600000
+ 26099 strings out of 479418
+ 486292 string characters out of 5888106
+ 885617 words of memory out of 5000000
+ 42951 multiletter control sequences out of 15000+600000
  579864 words of font info for 138 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 60i,12n,88p,1106b,632s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 60i,12n,88p,1106b,667s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on main_file.pdf (29 pages).
+Output written on main_file.pdf (30 pages).
