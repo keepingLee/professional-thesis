@@ -8,50 +8,148 @@ A level-1 auxiliary file: chapter/c2.aux
 A level-1 auxiliary file: chapter/c3.aux
 A level-1 auxiliary file: chapter/c4.aux
 A level-1 auxiliary file: chapter/c5.aux
+A level-1 auxiliary file: chapter/c6.aux
 A level-1 auxiliary file: misc/acknowledgement.aux
 The style file: thesis-uestc.bst
 A level-1 auxiliary file: misc/appendix.aux
 A level-1 auxiliary file: misc/translate_original.aux
 A level-1 auxiliary file: misc/translate_chinese.aux
 Database file #1: reference.bib
-You've used 10 entries,
+`volume' is a missing field, not a string, for entry song2016ji
+while executing---line 999 of file thesis-uestc.bst
+`pages' is a missing field, not a string, for entry song2016ji
+while executing---line 999 of file thesis-uestc.bst
+`volume' is a missing field, not a string, for entry liao2009xu
+while executing---line 999 of file thesis-uestc.bst
+`pages' is a missing field, not a string, for entry liao2009xu
+while executing---line 999 of file thesis-uestc.bst
+`institution' is a missing field, not a string, for entry jin20080XML
+while executing---line 999 of file thesis-uestc.bst
+`year' is a missing field, not a string, for entry jin20080XML
+while executing---line 999 of file thesis-uestc.bst
+`pages' is a missing field, not a string, for entry jin20080XML
+while executing---line 999 of file thesis-uestc.bst
+`institution' is a missing field, not a string, for entry zhangrun2016ji
+while executing---line 999 of file thesis-uestc.bst
+`pages' is a missing field, not a string, for entry zhangrun2016ji
+while executing---line 999 of file thesis-uestc.bst
+`institution' is a missing field, not a string, for entry xu2014SCADA
+while executing---line 999 of file thesis-uestc.bst
+`pages' is a missing field, not a string, for entry xu2014SCADA
+while executing---line 999 of file thesis-uestc.bst
+`institution' is a missing field, not a string, for entry li2007zhishi
+while executing---line 999 of file thesis-uestc.bst
+`pages' is a missing field, not a string, for entry li2007zhishi
+while executing---line 999 of file thesis-uestc.bst
+`institution' is a missing field, not a string, for entry hanyi0mian
+while executing---line 999 of file thesis-uestc.bst
+`year' is a missing field, not a string, for entry hanyi0mian
+while executing---line 999 of file thesis-uestc.bst
+`pages' is a missing field, not a string, for entry hanyi0mian
+while executing---line 999 of file thesis-uestc.bst
+`year' is a missing field, not a string, for entry wang0shu
+while executing---line 999 of file thesis-uestc.bst
+`volume' is a missing field, not a string, for entry wang0shu
+while executing---line 999 of file thesis-uestc.bst
+`institution' is a missing field, not a string, for entry hao201ji
+while executing---line 999 of file thesis-uestc.bst
+`pages' is a missing field, not a string, for entry hao201ji
+while executing---line 999 of file thesis-uestc.bst
+`institution' is a missing field, not a string, for entry zhangyin0ji
+while executing---line 999 of file thesis-uestc.bst
+`year' is a missing field, not a string, for entry zhangyin0ji
+while executing---line 999 of file thesis-uestc.bst
+`pages' is a missing field, not a string, for entry zhangyin0ji
+while executing---line 999 of file thesis-uestc.bst
+`institution' is a missing field, not a string, for entry chuyinzhi
+while executing---line 999 of file thesis-uestc.bst
+`year' is a missing field, not a string, for entry chuyinzhi
+while executing---line 999 of file thesis-uestc.bst
+`pages' is a missing field, not a string, for entry chuyinzhi
+while executing---line 999 of file thesis-uestc.bst
+`institution' is a missing field, not a string, for entry zhangjie0wen
+while executing---line 999 of file thesis-uestc.bst
+`year' is a missing field, not a string, for entry zhangjie0wen
+while executing---line 999 of file thesis-uestc.bst
+`pages' is a missing field, not a string, for entry zhangjie0wen
+while executing---line 999 of file thesis-uestc.bst
+`institution' is a missing field, not a string, for entry macan0mian
+while executing---line 999 of file thesis-uestc.bst
+`year' is a missing field, not a string, for entry macan0mian
+while executing---line 999 of file thesis-uestc.bst
+`pages' is a missing field, not a string, for entry macan0mian
+while executing---line 999 of file thesis-uestc.bst
+`institution' is a missing field, not a string, for entry shencao2019ji
+while executing---line 999 of file thesis-uestc.bst
+`pages' is a missing field, not a string, for entry shencao2019ji
+while executing---line 999 of file thesis-uestc.bst
+`institution' is a missing field, not a string, for entry liyou0ji
+while executing---line 999 of file thesis-uestc.bst
+`year' is a missing field, not a string, for entry liyou0ji
+while executing---line 999 of file thesis-uestc.bst
+`pages' is a missing field, not a string, for entry liyou0ji
+while executing---line 999 of file thesis-uestc.bst
+`institution' is a missing field, not a string, for entry chncan2018ji
+while executing---line 999 of file thesis-uestc.bst
+`pages' is a missing field, not a string, for entry chncan2018ji
+while executing---line 999 of file thesis-uestc.bst
+`institution' is a missing field, not a string, for entry zhangzhao2019ji
+while executing---line 999 of file thesis-uestc.bst
+`pages' is a missing field, not a string, for entry zhangzhao2019ji
+while executing---line 999 of file thesis-uestc.bst
+`institution' is a missing field, not a string, for entry qufeng2018ji
+while executing---line 999 of file thesis-uestc.bst
+`pages' is a missing field, not a string, for entry qufeng2018ji
+while executing---line 999 of file thesis-uestc.bst
+`institution' is a missing field, not a string, for entry lvdan0ji
+while executing---line 999 of file thesis-uestc.bst
+`year' is a missing field, not a string, for entry lvdan0ji
+while executing---line 999 of file thesis-uestc.bst
+`pages' is a missing field, not a string, for entry lvdan0ji
+while executing---line 999 of file thesis-uestc.bst
+`volume' is a missing field, not a string, for entry chenopin2003ji
+while executing---line 999 of file thesis-uestc.bst
+`pages' is a missing field, not a string, for entry chenopin2003ji
+while executing---line 999 of file thesis-uestc.bst
+You've used 44 entries,
             717 wiz_defined-function locations,
-            314 strings with 2939 characters,
-and the built_in function-call counts, 989 in all, are:
-= -- 46
-> -- 47
+            482 strings with 6178 characters,
+and the built_in function-call counts, 4829 in all, are:
+= -- 231
+> -- 225
 < -- 0
-+ -- 25
-- -- 14
-* -- 74
-:= -- 153
++ -- 130
+- -- 67
+* -- 350
+:= -- 804
 add.period$ -- 0
-call.type$ -- 10
-change.case$ -- 10
+call.type$ -- 44
+change.case$ -- 44
 chr.to.int$ -- 0
-cite$ -- 10
-duplicate$ -- 60
-empty$ -- 53
-format.name$ -- 17
-if$ -- 147
+cite$ -- 44
+duplicate$ -- 341
+empty$ -- 255
+format.name$ -- 79
+if$ -- 714
 int.to.chr$ -- 0
 int.to.str$ -- 0
-missing$ -- 24
-newline$ -- 14
-num.names$ -- 9
-pop$ -- 24
+missing$ -- 113
+newline$ -- 48
+num.names$ -- 43
+pop$ -- 126
 preamble$ -- 0
 purify$ -- 0
 quote$ -- 0
-skip$ -- 9
+skip$ -- 55
 stack$ -- 0
-substring$ -- 84
-swap$ -- 28
+substring$ -- 396
+swap$ -- 134
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 0
-while$ -- 19
+while$ -- 119
 width$ -- 0
-write$ -- 112
+write$ -- 467
+(There were 48 error messages)

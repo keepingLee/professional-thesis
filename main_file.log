@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2021.1.7)  9 FEB 2021 16:47
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2021.1.7)  20 MAR 2021 17:07
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1124,43 +1124,90 @@ Couldn't patch the command
 
 \c@theorem=\count356
 )
+(c:/texlive/2020/texmf-dist/tex/latex/makecell/makecell.sty
+Package: makecell 2009/08/03 V0.1e Managing of Tab Column Heads and Cells
+\rotheadsize=\dimen301
+\c@nlinenum=\count357
+\TeXr@lab=\toks47
+)
 
 LaTeX Warning: Unused global option(s):
     [master].
 
 (./main_file.aux (./misc/chinese_abstract.aux) (./misc/english_abstract.aux)
-(./chapter/exordium.aux) (./chapter/c2.aux) (./chapter/c3.aux)
-(./chapter/c4.aux) (./chapter/c5.aux) (./misc/acknowledgement.aux)
-(./misc/appendix.aux) (./misc/translate_original.aux)
-(./misc/translate_chinese.aux))
+(./chapter/exordium.aux) (./chapter/c2.aux
+
+LaTeX Warning: Label `tablea' multiply defined.
+
+) (./chapter/c3.aux
+
+LaTeX Warning: Label `tablea' multiply defined.
+
+
+LaTeX Warning: Label `tablea' multiply defined.
+
+
+LaTeX Warning: Label `tablea' multiply defined.
+
+
+LaTeX Warning: Label `tablea' multiply defined.
+
+
+LaTeX Warning: Label `tablea' multiply defined.
+
+) (./chapter/c4.aux
+
+LaTeX Warning: Label `dfs' multiply defined.
+
+
+LaTeX Warning: Label `tablea' multiply defined.
+
+
+LaTeX Warning: Label `tablea' multiply defined.
+
+
+LaTeX Warning: Label `tablea' multiply defined.
+
+
+LaTeX Warning: Label `dfs' multiply defined.
+
+
+LaTeX Warning: Label `tablea' multiply defined.
+
+) (./chapter/c5.aux
+
+LaTeX Warning: Label `tablea' multiply defined.
+
+) (./chapter/c6.aux) (./misc/acknowledgement.aux) (./misc/appendix.aux)
+(./misc/translate_original.aux) (./misc/translate_chinese.aux))
 \openout1 = `main_file.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 16.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 17.
 LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 1
-6.
+7.
 
 (c:/texlive/2020/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: float package is loaded.
 Package caption Info: hyperref package is loaded.
@@ -1173,7 +1220,7 @@ Package caption Info: subfigure package is loaded.
 Package caption Info: supertabular package is loaded.
 Package caption Info: End \AtBeginDocument code.
 \AtBeginShipoutBox=\box76
-Package hyperref Info: Link coloring ON on input line 16.
+Package hyperref Info: Link coloring ON on input line 17.
 
 (c:/texlive/2020/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
@@ -1184,11 +1231,11 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 (c:/texlive/2020/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count357
+\c@section@level=\count358
 )
-LaTeX Info: Redefining \ref on input line 16.
-LaTeX Info: Redefining \pageref on input line 16.
-LaTeX Info: Redefining \nameref on input line 16.
+LaTeX Info: Redefining \ref on input line 17.
+LaTeX Info: Redefining \pageref on input line 17.
+LaTeX Info: Redefining \nameref on input line 17.
 
 (./main_file.out) (./main_file.out)
 \@outlinefile=\write7
@@ -1232,43 +1279,43 @@ Package newfloat Info: `float' package detected.
 
 File: ./pic/logo.pdf Graphic file (type pdf)
 <use ./pic/logo.pdf>
-LaTeX Font Info:    Calculating math sizes for size <10.5> on input line 17.
+LaTeX Font Info:    Calculating math sizes for size <10.5> on input line 18.
 LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 1
-7.
+8.
 (c:/texlive/2020/texmf-dist/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OML+lmm on input line 1
-7.
+8.
 
 (c:/texlive/2020/texmf-dist/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
-17.
+18.
 
 (c:/texlive/2020/texmf-dist/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 
-17.
+18.
 
 (c:/texlive/2020/texmf-dist/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10.5> on input line 17.
+(Font)              <10.5> on input line 18.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7.34996> on input line 17.
+(Font)              <7.34996> on input line 18.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5.25> on input line 17.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 17.
+(Font)              <5.25> on input line 18.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 18.
 
 
 (c:/texlive/2020/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 17.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 18.
 
 
 (c:/texlive/2020/texmf-dist/tex/latex/amsfonts/umsb.fd
@@ -1298,7 +1345,7 @@ Package fontspec Info: Font family 'SimHei(0)' created for font 'SimHei' with
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
 
 
-Overfull \hbox (1.65108pt too wide) in paragraph at lines 17--17
+Overfull \hbox (1.65108pt too wide) in paragraph at lines 18--18
  [][] 
  []
 
@@ -1312,23 +1359,23 @@ File: se-ascii-print.def 2019/11/29 v1.12 stringenc: Printable ASCII characters
 ]
 [2]
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <12> on input line 17.
+(Font)              <12> on input line 18.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 17.
+(Font)              <8> on input line 18.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 17.
+(Font)              <6> on input line 18.
 
-Overfull \hbox (0.55862pt too wide) in paragraph at lines 17--17
+Overfull \hbox (0.55862pt too wide) in paragraph at lines 18--18
 \TU/SimSun(0)/m/n/12 分 类 号     密 级     
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 17--17
+Underfull \hbox (badness 10000) in paragraph at lines 18--18
 
  []
 
 [3] [4]
-Overfull \hbox (10.65086pt too wide) in paragraph at lines 17--17
+Overfull \hbox (10.65086pt too wide) in paragraph at lines 18--18
  [][] 
  []
 
@@ -1336,18 +1383,19 @@ Overfull \hbox (10.65086pt too wide) in paragraph at lines 17--17
 \openout2 = `misc/chinese_abstract.aux'.
 
  (./misc/chinese_abstract.tex
+LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/m/sl' in size <12> not avai
+lable
+(Font)              Font shape `TU/TimesNewRoman(0)/m/it' tried instead on inpu
+t line 35.
+ [1
+
+
+]
 Overfull \hbox (2.0pt too wide) in paragraph at lines 37--38
 [] []
  []
 
-LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/m/sl' in size <12> not avai
-lable
-(Font)              Font shape `TU/TimesNewRoman(0)/m/it' tried instead on inpu
-t line 38.
-[1
-
-
-] [2])
+[2])
 \openout2 = `misc/english_abstract.aux'.
 
  (./misc/english_abstract.tex
@@ -1369,11 +1417,11 @@ Overfull \hbox (2.0pt too wide) in paragraph at lines 8--9
 \FN@pp@footnotehinttrue 
 
 
-])
+] [6])
 \tf@toc=\write8
 \openout8 = `main_file.toc'.
 
- [6]
+ [7] [8]
 \openout2 = `chapter/exordium.aux'.
 
  (./chapter/exordium.tex
@@ -1381,112 +1429,219 @@ Chapter 第一章.
 [1
 
 
-]) [2]
+] [2] [3] [4] [5] [6] [7]) [8]
 \openout2 = `chapter/c2.aux'.
 
  (./chapter/c2.tex
 Chapter 第二章.
-File: ./pic/pica.pdf Graphic file (type pdf)
-<use ./pic/pica.pdf>
-[3
-
-
-
-]
-LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/bx/n' in size <12> not avai
-lable
-(Font)              Font shape `TU/TimesNewRoman(0)/b/n' tried instead on input
- line 38.
-LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/bx/n' in size <8> not avail
-able
-(Font)              Font shape `TU/TimesNewRoman(0)/b/n' tried instead on input
- line 38.
-LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/bx/n' in size <6> not avail
-able
-(Font)              Font shape `TU/TimesNewRoman(0)/b/n' tried instead on input
- line 38.
-File: ./pic/picb.pdf Graphic file (type pdf)
-<use ./pic/picb.pdf>
-File: ./pic/picc.pdf Graphic file (type pdf)
-<use ./pic/picc.pdf>
- [4]
-Package hyperref Info: bookmark level for unknown algorithm defaults to 0 on in
-put line 96.
- [5]) [6]
-\openout2 = `chapter/c3.aux'.
-
- (./chapter/c3.tex
-Chapter 第三章.
-[7
-
-
-
-]) [8]
-\openout2 = `chapter/c4.aux'.
-
- (./chapter/c4.tex
-Chapter 第四章.
-LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/bx/n' in size <10.5> not av
-ailable
-(Font)              Font shape `TU/TimesNewRoman(0)/b/n' tried instead on input
- line 41.
-LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/bx/n' in size <7.34996> not
- available
-(Font)              Font shape `TU/TimesNewRoman(0)/b/n' tried instead on input
- line 41.
-LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/bx/n' in size <5.25> not av
-ailable
-(Font)              Font shape `TU/TimesNewRoman(0)/b/n' tried instead on input
- line 41.
 [9
 
 
 
+] [10]
+File: ./pic/知识图谱模型构成.pdf Graphic file (type pdf)
+<use ./pic/知识图谱模型构成.pdf>
+
+Overfull \hbox (76.08617pt too wide) in paragraph at lines 95--96
+ [][] 
+ []
+
+[11] [12]
+File: ./pic/知识图谱构建流程图.pdf Graphic file (type pdf)
+<use ./pic/知识图谱构建流程图.pdf>
+
+Overfull \hbox (30.91753pt too wide) in paragraph at lines 140--141
+ [][] 
+ []
+
+
+Overfull \hbox (14.63098pt too wide) in paragraph at lines 158--176
+ [][] 
+ []
+
+[13] [14]
+Overfull \hbox (35.13065pt too wide) in paragraph at lines 211--237
+ [][] 
+ []
+
+File: ./pic/产生式系统.pdf Graphic file (type pdf)
+<use ./pic/产生式系统.pdf>
+[15] [16] [17] [18] [19]) [20]
+\openout2 = `chapter/c3.aux'.
+
+ (./chapter/c3.tex
+Chapter 第三章.
+File: ./pic/知识表示.pdf Graphic file (type pdf)
+<use ./pic/知识表示.pdf>
+
+Overfull \hbox (53.50183pt too wide) in paragraph at lines 14--15
+ [][] 
+ []
+
+[21
+
+
+
 ]
+Overfull \hbox (42.60876pt too wide) in paragraph at lines 86--123
+ [][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[22] [23]
+Overfull \hbox (10.63062pt too wide) in paragraph at lines 183--216
+ [][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[24]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[25]
+Overfull \hbox (28.43997pt too wide) in paragraph at lines 289--366
+ [][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[26] [27]) [28]
+\openout2 = `chapter/c4.aux'.
+
+ (./chapter/c4.tex
+Chapter 第四章.
+File: ./pic/系统架构图.pdf Graphic file (type pdf)
+<use ./pic/系统架构图.pdf>
+
+Overfull \hbox (57.2659pt too wide) in paragraph at lines 21--22
+ [][] 
+ []
+
+[29
+
+
+
+] [30]
+File: ./pic/正向推理1.pdf Graphic file (type pdf)
+<use ./pic/正向推理1.pdf>
+ [31]
+Package hyperref Info: bookmark level for unknown algorithm defaults to 0 on in
+put line 108.
+ [32]
+File: ./pic/正逆结合推理.pdf Graphic file (type pdf)
+<use ./pic/正逆结合推理.pdf>
+
+Overfull \hbox (66.29964pt too wide) in paragraph at lines 144--145
+ [][] 
+ []
+
+[33]
+File: ./pic/推理引擎.pdf Graphic file (type pdf)
+<use ./pic/推理引擎.pdf>
+
+
+LaTeX Warning: Float too large for page by 27.79382pt on input line 171.
+
+[34] [35]
+File: ./pic/图匹配算法1.pdf Graphic file (type pdf)
+<use ./pic/图匹配算法1.pdf>
+
+Overfull \hbox (25.64786pt too wide) in paragraph at lines 198--199
+ [][] 
+ []
+
+[36] [37] [38] [39]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[40]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[41]
+File: ./pic/知识更新1.pdf Graphic file (type pdf)
+<use ./pic/知识更新1.pdf>
+ [42] [43] [44] [45]
 File: ./pic/picd.pdf Graphic file (type pdf)
 <use ./pic/picd.pdf>
 File: ./pic/pice.pdf Graphic file (type pdf)
 <use ./pic/pice.pdf>
- [10]) [11]
+ [46]) [47]
 \openout2 = `chapter/c5.aux'.
 
  (./chapter/c5.tex
 Chapter 第五章.
-) [12
+File: ./pic/类人解答过程文字.pdf Graphic file (type pdf)
+<use ./pic/类人解答过程文字.pdf>
+
+Overfull \hbox (63.89972pt too wide) in paragraph at lines 53--74
+ [][] 
+ []
+
+[48
 
 
 
-]
+] [49]
+File: ./pic/前k项实例化.pdf Graphic file (type pdf)
+<use ./pic/前k项实例化.pdf>
+File: ./pic/求前n项和.pdf Graphic file (type pdf)
+<use ./pic/求前n项和.pdf>
+File: ./pic/题目图谱.pdf Graphic file (type pdf)
+<use ./pic/题目图谱.pdf>
+ [50] [51]
+File: ./pic/求解结果图.pdf Graphic file (type pdf)
+<use ./pic/求解结果图.pdf>
+ [52]) [53]
+\openout2 = `chapter/c6.aux'.
+
+ (./chapter/c6.tex
+Chapter 第六章.
+[54
+
+
+
+]) [55]
 \openout2 = `misc/acknowledgement.aux'.
 
- (./misc/acknowledgement.tex) [13
+ (./misc/acknowledgement.tex) [56
 
 
 
-] (./main_file.bbl) [14
+] (./main_file.bbl
+Invalid UTF-8 byte or sequence at line 45 replaced by U+FFFD.
+Missing character: There is no � in font Times New Roman/OT:script=latn;languag
+e=dflt;mapping=tex-text;!
+ [57
 
 
-]
+]) [58]
 \openout2 = `misc/appendix.aux'.
 
 
-(./misc/appendix.tex) [15
-
-
-] (./achievement.bbl) [16
+(./misc/appendix.tex) [59
 
 
 ]
+No file achievement.bbl.
 \openout2 = `misc/translate_original.aux'.
 
+(./misc/translate_original.tex) [60
 
-(./misc/translate_original.tex) [17
 
 
 ]
 \openout2 = `misc/translate_chinese.aux'.
 
- (./misc/translate_chinese.tex) [18
+ (./misc/translate_chinese.tex) [61
 
 
 
@@ -1496,32 +1651,29 @@ Package glossaries Warning: No \printglossary or \printglossaries found.
 (Remove \makeglossaries if you don't want any glossaries.) 
 This document will not have a glossary.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 44.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 44.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 45.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 45.
 (./main_file.aux (./misc/chinese_abstract.aux) (./misc/english_abstract.aux)
 (./chapter/exordium.aux) (./chapter/c2.aux) (./chapter/c3.aux)
-(./chapter/c4.aux) (./chapter/c5.aux) (./misc/acknowledgement.aux)
-(./misc/appendix.aux) (./misc/translate_original.aux)
-(./misc/translate_chinese.aux))
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 44.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 44.
+(./chapter/c4.aux) (./chapter/c5.aux) (./chapter/c6.aux)
+(./misc/acknowledgement.aux) (./misc/appendix.aux)
+(./misc/translate_original.aux) (./misc/translate_chinese.aux))
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 45.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 45.
+Package rerunfilecheck Info: File `main_file.out' has not changed.
+(rerunfilecheck)             Checksum: 145B9BB64FCDDF730C5DD27DC1CB6B36;5497.
 
 
-Package rerunfilecheck Warning: File `main_file.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
+LaTeX Warning: There were multiply-defined labels.
 
-Package rerunfilecheck Info: Checksums for `main_file.out':
-(rerunfilecheck)             Before: 6089407EF6745DB133CBD582A12EC39A;4386
-(rerunfilecheck)             After:  45C2A260A544F576F9489873528074F6;5580.
  ) 
 Here is how much of TeX's memory you used:
- 26099 strings out of 479418
- 486292 string characters out of 5888106
- 885617 words of memory out of 5000000
- 42951 multiletter control sequences out of 15000+600000
- 579864 words of font info for 138 fonts, out of 8000000 for 9000
+ 26522 strings out of 479418
+ 499921 string characters out of 5888106
+ 905911 words of memory out of 5000000
+ 43359 multiletter control sequences out of 15000+600000
+ 579824 words of font info for 133 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 60i,12n,88p,1106b,667s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 60i,20n,88p,1104b,703s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on main_file.pdf (30 pages).
+Output written on main_file.pdf (75 pages).

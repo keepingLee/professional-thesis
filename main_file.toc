@@ -10,91 +10,141 @@
  \cftsetpnumwidth {\widthof {IV}-1pt} 
  \cftsetpnumwidth {\widthof {V}-1pt} 
  \cftsetpnumwidth {\widthof {VI}-1pt} 
+ \cftsetpnumwidth {\widthof {VII}-1pt} 
+ \cftsetpnumwidth {\widthof {VIII}-1pt} 
  \cftsetpnumwidth {\widthof {1}-1pt} 
 \setcounter {tocdepth}{4}
 \contentsline {chapter}{\numberline {第一章}绪\hspace {6pt}论}{1}{chapter.1}%
 \contentsline {section}{\numberline {1.1}研究工作的背景与意义}{1}{section.1.1}%
-\contentsline {section}{\numberline {1.2}时域积分方程方法的国内外研究历史与现状}{1}{section.1.2}%
-\contentsline {section}{\numberline {1.3}本文的主要贡献与创新}{1}{section.1.3}%
-\contentsline {section}{\numberline {1.4}本论文的组织结构}{1}{section.1.4}%
  \cftsetpnumwidth {\widthof {2}-1pt} 
  \cftsetpnumwidth {\widthof {3}-1pt} 
-\contentsline {chapter}{\numberline {第二章}相关技术和理论}{3}{chapter.2}%
-\contentsline {section}{\numberline {2.1}知识图谱}{3}{section.2.1}%
-\contentsline {subsection}{\numberline {2.1.1}知识图谱概述}{3}{subsection.2.1.1}%
+\contentsline {section}{\numberline {1.2}研究现状}{3}{section.1.2}%
+\contentsline {subsection}{\numberline {1.2.1}知识图谱研究现状}{3}{subsection.1.2.1}%
  \cftsetpnumwidth {\widthof {4}-1pt} 
-\contentsline {subsection}{\numberline {2.1.2}时间基函数}{4}{subsection.2.1.2}%
-\contentsline {subsubsection}{\numberline {2.1.2.1}时域方法特有的展开函数}{4}{subsubsection.2.1.2.1}%
-\contentsline {subsubsection}{\numberline {2.1.2.2}频域方法特有的展开函数}{4}{subsubsection.2.1.2.2}%
-\contentsline {section}{\numberline {2.2}入射波}{4}{section.2.2}%
+\contentsline {subsection}{\numberline {1.2.2}推理引擎研究现状}{4}{subsection.1.2.2}%
  \cftsetpnumwidth {\widthof {5}-1pt} 
-\contentsline {section}{\numberline {2.3}时域积分方程时间步进算法阻抗矩阵的存储}{5}{section.2.3}%
-\contentsline {subsection}{\numberline {2.3.1}时域积分方程时间步进算法产生的阻抗矩阵的特征}{5}{subsection.2.3.1}%
-\contentsline {subsection}{\numberline {2.3.2}数值算例与分析}{5}{subsection.2.3.2}%
+\contentsline {section}{\numberline {1.3}研究内容}{5}{section.1.3}%
  \cftsetpnumwidth {\widthof {6}-1pt} 
-\contentsline {section}{\numberline {2.4}时域积分方程时间步进算法矩阵方程的求解}{6}{section.2.4}%
-\contentsline {section}{\numberline {2.5}本章小结}{6}{section.2.5}%
  \cftsetpnumwidth {\widthof {7}-1pt} 
-\contentsline {chapter}{\numberline {第三章}图匹配推理引擎与符号计算推理的设计和构建}{7}{chapter.3}%
-\contentsline {section}{\numberline {3.1}概况}{7}{section.3.1}%
-\contentsline {section}{\numberline {3.2}复杂逻辑推理研究}{7}{section.3.2}%
-\contentsline {subsection}{\numberline {3.2.1}正向推理}{7}{subsection.3.2.1}%
-\contentsline {subsection}{\numberline {3.2.2}逆向推理}{7}{subsection.3.2.2}%
-\contentsline {subsection}{\numberline {3.2.3}正逆结合}{7}{subsection.3.2.3}%
-\contentsline {section}{\numberline {3.3}图匹配推理引擎的构建与设计}{7}{section.3.3}%
-\contentsline {subsection}{\numberline {3.3.1}引擎基本设计思想}{7}{subsection.3.3.1}%
-\contentsline {subsection}{\numberline {3.3.2}逻辑架构}{7}{subsection.3.3.2}%
-\contentsline {subsection}{\numberline {3.3.3}Match Engine}{7}{subsection.3.3.3}%
-\contentsline {subsubsection}{\numberline {3.3.3.1}图匹配}{7}{subsubsection.3.3.3.1}%
-\contentsline {subsubsection}{\numberline {3.3.3.2}匹配原则}{7}{subsubsection.3.3.3.2}%
-\contentsline {subsection}{\numberline {3.3.4}引擎的具体功能实现}{7}{subsection.3.3.4}%
-\contentsline {section}{\numberline {3.4}类人解答过程的构建}{7}{section.3.4}%
-\contentsline {subsection}{\numberline {3.4.1}类人解题的前提}{7}{subsection.3.4.1}%
-\contentsline {subsection}{\numberline {3.4.2}重构类人解答}{7}{subsection.3.4.2}%
-\contentsline {subsubsection}{\numberline {3.4.2.1}实例化定理编码}{7}{subsubsection.3.4.2.1}%
-\contentsline {subsubsection}{\numberline {3.4.2.2}构建解答过程}{7}{subsubsection.3.4.2.2}%
+\contentsline {section}{\numberline {1.4}本论文的组织结构}{7}{section.1.4}%
  \cftsetpnumwidth {\widthof {8}-1pt} 
-\contentsline {section}{\numberline {3.5}时域积分方程时间步进算法矩阵方程的求解}{8}{section.3.5}%
-\contentsline {section}{\numberline {3.6}本章小结}{8}{section.3.6}%
  \cftsetpnumwidth {\widthof {9}-1pt} 
-\contentsline {chapter}{\numberline {第四章}图匹配推理引擎与符号计算推理的设计和构建}{9}{chapter.4}%
-\contentsline {section}{\numberline {4.1}概况}{9}{section.4.1}%
-\contentsline {section}{\numberline {4.2}复杂逻辑推理研究}{9}{section.4.2}%
-\contentsline {subsection}{\numberline {4.2.1}正向推理}{9}{subsection.4.2.1}%
-\contentsline {subsection}{\numberline {4.2.2}逆向推理}{9}{subsection.4.2.2}%
-\contentsline {subsection}{\numberline {4.2.3}正逆结合}{9}{subsection.4.2.3}%
-\contentsline {section}{\numberline {4.3}图匹配推理引擎的构建与设计}{9}{section.4.3}%
-\contentsline {subsection}{\numberline {4.3.1}引擎基本设计思想}{9}{subsection.4.3.1}%
-\contentsline {subsection}{\numberline {4.3.2}逻辑架构}{9}{subsection.4.3.2}%
-\contentsline {subsection}{\numberline {4.3.3}Match Engine}{9}{subsection.4.3.3}%
-\contentsline {subsubsection}{\numberline {4.3.3.1}图匹配}{9}{subsubsection.4.3.3.1}%
-\contentsline {subsubsection}{\numberline {4.3.3.2}匹配原则}{9}{subsubsection.4.3.3.2}%
-\contentsline {subsection}{\numberline {4.3.4}引擎的具体功能实现}{9}{subsection.4.3.4}%
-\contentsline {section}{\numberline {4.4}类人解答过程的构建}{9}{section.4.4}%
-\contentsline {subsection}{\numberline {4.4.1}类人解题的前提}{9}{subsection.4.4.1}%
-\contentsline {subsection}{\numberline {4.4.2}重构类人解答}{9}{subsection.4.4.2}%
-\contentsline {subsubsection}{\numberline {4.4.2.1}实例化定理编码}{9}{subsubsection.4.4.2.1}%
-\contentsline {subsubsection}{\numberline {4.4.2.2}构建解答过程}{9}{subsubsection.4.4.2.2}%
+\contentsline {chapter}{\numberline {第二章}相关技术和理论}{9}{chapter.2}%
+\contentsline {section}{\numberline {2.1}知识图谱}{9}{section.2.1}%
+\contentsline {subsection}{\numberline {2.1.1}知识图谱概念}{9}{subsection.2.1.1}%
  \cftsetpnumwidth {\widthof {10}-1pt} 
-\contentsline {section}{\numberline {4.5}时域积分方程时间步进算法矩阵方程的求解}{10}{section.4.5}%
  \cftsetpnumwidth {\widthof {11}-1pt} 
-\contentsline {section}{\numberline {4.6}本章小结}{11}{section.4.6}%
+\contentsline {subsection}{\numberline {2.1.2}知识图谱模型}{11}{subsection.2.1.2}%
+\contentsline {subsection}{\numberline {2.1.3}知识图谱构建}{11}{subsection.2.1.3}%
  \cftsetpnumwidth {\widthof {12}-1pt} 
-\contentsline {chapter}{\numberline {第五章}全文总结与展望}{12}{chapter.5}%
-\contentsline {section}{\numberline {5.1}全文总结}{12}{section.5.1}%
-\contentsline {section}{\numberline {5.2}后续工作展望}{12}{section.5.2}%
  \cftsetpnumwidth {\widthof {13}-1pt} 
-\setcounter {tocdepth}{0}
-\contentsline {chapter}{致\hspace {12pt}谢}{13}{chapter*.10}%
+\contentsline {section}{\numberline {2.2}图数据库}{13}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}图数据库概述}{13}{subsection.2.2.1}%
  \cftsetpnumwidth {\widthof {14}-1pt} 
-\contentsline {chapter}{参考文献}{14}{chapter*.11}%
+\contentsline {subsection}{\numberline {2.2.2}图数据库Neo4j}{14}{subsection.2.2.2}%
  \cftsetpnumwidth {\widthof {15}-1pt} 
-\contentsline {chapter}{附录}{15}{chapter*.12}%
+\contentsline {section}{\numberline {2.3}自动推理}{15}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}产生式系统}{15}{subsection.2.3.1}%
  \cftsetpnumwidth {\widthof {16}-1pt} 
-\contentsline {chapter}{攻读硕士{}学位期间取得的成果}{16}{chapter*.13}%
  \cftsetpnumwidth {\widthof {17}-1pt} 
-\contentsline {chapter}{外文资料原文}{17}{chapter*.14}%
-\contentsline {section}{\numberline {5.1}A Tight Upper Bound on Bit Error Rate}{17}{section.5.1}%
+\contentsline {section}{\numberline {2.4}匹配算法}{17}{section.2.4}%
+\contentsline {subsection}{\numberline {2.4.1}模式匹配算法}{17}{subsection.2.4.1}%
  \cftsetpnumwidth {\widthof {18}-1pt} 
-\contentsline {chapter}{外文资料译文}{18}{chapter*.15}%
-\contentsline {section}{\numberline {5.1}基于多载波索引键控的正交频分多路复用系统模型}{18}{section.5.1}%
+\contentsline {subsection}{\numberline {2.4.2}图匹配算法}{18}{subsection.2.4.2}%
+ \cftsetpnumwidth {\widthof {19}-1pt} 
+\contentsline {section}{\numberline {2.5}符号计算平台}{19}{section.2.5}%
+ \cftsetpnumwidth {\widthof {20}-1pt} 
+\contentsline {section}{\numberline {2.6}本章小结}{20}{section.2.6}%
+ \cftsetpnumwidth {\widthof {21}-1pt} 
+\contentsline {chapter}{\numberline {第三章}复杂图推理中的知识表示}{21}{chapter.3}%
+\contentsline {section}{\numberline {3.1}概况}{21}{section.3.1}%
+\contentsline {section}{\numberline {3.2}概念知识图谱的构建}{21}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}知识图谱构成}{21}{subsection.3.2.1}%
+ \cftsetpnumwidth {\widthof {22}-1pt} 
+ \cftsetpnumwidth {\widthof {23}-1pt} 
+\contentsline {subsection}{\numberline {3.2.2}知识图谱存储}{23}{subsection.3.2.2}%
+\contentsline {subsection}{\numberline {3.2.3}知识图谱的应用}{23}{subsection.3.2.3}%
+ \cftsetpnumwidth {\widthof {24}-1pt} 
+\contentsline {section}{\numberline {3.3}实例化定理库的构建}{24}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}定理来源}{24}{subsection.3.3.1}%
+\contentsline {subsection}{\numberline {3.3.2}定理库创建}{24}{subsection.3.3.2}%
+ \cftsetpnumwidth {\widthof {25}-1pt} 
+\contentsline {subsection}{\numberline {3.3.3}定理书写规范}{25}{subsection.3.3.3}%
+ \cftsetpnumwidth {\widthof {26}-1pt} 
+ \cftsetpnumwidth {\widthof {27}-1pt} 
+ \cftsetpnumwidth {\widthof {28}-1pt} 
+\contentsline {subsection}{\numberline {3.3.4}定理的应用}{28}{subsection.3.3.4}%
+\contentsline {section}{\numberline {3.4}本章小结}{28}{section.3.4}%
+ \cftsetpnumwidth {\widthof {29}-1pt} 
+\contentsline {chapter}{\numberline {第四章}图同构的数学推理引擎的设计和构建}{29}{chapter.4}%
+\contentsline {section}{\numberline {4.1}系统概述}{29}{section.4.1}%
+ \cftsetpnumwidth {\widthof {30}-1pt} 
+\contentsline {section}{\numberline {4.2}复杂逻辑推理研究}{30}{section.4.2}%
+ \cftsetpnumwidth {\widthof {31}-1pt} 
+\contentsline {subsection}{\numberline {4.2.1}正向推理}{31}{subsection.4.2.1}%
+ \cftsetpnumwidth {\widthof {32}-1pt} 
+\contentsline {subsection}{\numberline {4.2.2}逆向推理}{32}{subsection.4.2.2}%
+ \cftsetpnumwidth {\widthof {33}-1pt} 
+\contentsline {subsection}{\numberline {4.2.3}正逆结合}{33}{subsection.4.2.3}%
+\contentsline {subsection}{\numberline {4.2.4}先逆后正}{33}{subsection.4.2.4}%
+\contentsline {section}{\numberline {4.3}图匹配推理引擎的构建与设计}{33}{section.4.3}%
+ \cftsetpnumwidth {\widthof {34}-1pt} 
+\contentsline {subsection}{\numberline {4.3.1}引擎基本设计思想}{34}{subsection.4.3.1}%
+\contentsline {subsection}{\numberline {4.3.2}逻辑架构}{34}{subsection.4.3.2}%
+ \cftsetpnumwidth {\widthof {35}-1pt} 
+ \cftsetpnumwidth {\widthof {36}-1pt} 
+\contentsline {subsection}{\numberline {4.3.3}Match Engine}{36}{subsection.4.3.3}%
+\contentsline {subsection}{\numberline {4.3.4}匹配原则}{36}{subsection.4.3.4}%
+ \cftsetpnumwidth {\widthof {37}-1pt} 
+ \cftsetpnumwidth {\widthof {38}-1pt} 
+ \cftsetpnumwidth {\widthof {39}-1pt} 
+\contentsline {subsubsection}{\numberline {4.3.4.1}子集匹配}{39}{subsubsection.4.3.4.1}%
+\contentsline {subsubsection}{\numberline {4.3.4.2}无方向匹配}{39}{subsubsection.4.3.4.2}%
+\contentsline {subsubsection}{\numberline {4.3.4.3}组合匹配}{39}{subsubsection.4.3.4.3}%
+ \cftsetpnumwidth {\widthof {40}-1pt} 
+\contentsline {subsubsection}{\numberline {4.3.4.4}自环匹配}{40}{subsubsection.4.3.4.4}%
+\contentsline {subsubsection}{\numberline {4.3.4.5}点映射}{40}{subsubsection.4.3.4.5}%
+ \cftsetpnumwidth {\widthof {41}-1pt} 
+\contentsline {subsection}{\numberline {4.3.5}置换等价}{41}{subsection.4.3.5}%
+ \cftsetpnumwidth {\widthof {42}-1pt} 
+\contentsline {section}{\numberline {4.4}知识更新}{42}{section.4.4}%
+ \cftsetpnumwidth {\widthof {43}-1pt} 
+ \cftsetpnumwidth {\widthof {44}-1pt} 
+ \cftsetpnumwidth {\widthof {45}-1pt} 
+\contentsline {section}{\numberline {4.5}类人解答过程的构建}{45}{section.4.5}%
+\contentsline {subsection}{\numberline {4.5.1}构建规则树}{45}{subsection.4.5.1}%
+\contentsline {subsection}{\numberline {4.5.2}重构类人解答}{45}{subsection.4.5.2}%
+ \cftsetpnumwidth {\widthof {46}-1pt} 
+ \cftsetpnumwidth {\widthof {47}-1pt} 
+\contentsline {section}{\numberline {4.6}时域积分方程时间步进算法矩阵方程的求解}{47}{section.4.6}%
+\contentsline {section}{\numberline {4.7}本章小结}{47}{section.4.7}%
+ \cftsetpnumwidth {\widthof {48}-1pt} 
+\contentsline {chapter}{\numberline {第五章}系统测试与分析}{48}{chapter.5}%
+\contentsline {section}{\numberline {5.1}系统测试}{48}{section.5.1}%
+\contentsline {subsection}{\numberline {5.1.1}单例测试}{48}{subsection.5.1.1}%
+ \cftsetpnumwidth {\widthof {49}-1pt} 
+ \cftsetpnumwidth {\widthof {50}-1pt} 
+ \cftsetpnumwidth {\widthof {51}-1pt} 
+ \cftsetpnumwidth {\widthof {52}-1pt} 
+ \cftsetpnumwidth {\widthof {53}-1pt} 
+\contentsline {subsection}{\numberline {5.1.2}批量测试}{53}{subsection.5.1.2}%
+\contentsline {section}{\numberline {5.2}后续工作展望}{53}{section.5.2}%
+ \cftsetpnumwidth {\widthof {54}-1pt} 
+\contentsline {chapter}{\numberline {第六章}总结与展望}{54}{chapter.6}%
+\contentsline {section}{\numberline {6.1}全文总结}{54}{section.6.1}%
+ \cftsetpnumwidth {\widthof {55}-1pt} 
+\contentsline {section}{\numberline {6.2}后续工作展望}{55}{section.6.2}%
+ \cftsetpnumwidth {\widthof {56}-1pt} 
+\setcounter {tocdepth}{0}
+\contentsline {chapter}{致\hspace {12pt}谢}{56}{chapter*.35}%
+ \cftsetpnumwidth {\widthof {57}-1pt} 
+\contentsline {chapter}{参考文献}{57}{chapter*.36}%
+ \cftsetpnumwidth {\widthof {58}-1pt} 
+ \cftsetpnumwidth {\widthof {59}-1pt} 
+\contentsline {chapter}{附录}{59}{chapter*.37}%
+ \cftsetpnumwidth {\widthof {60}-1pt} 
+\contentsline {chapter}{外文资料原文}{60}{chapter*.38}%
+\contentsline {section}{\numberline {6.1}A Tight Upper Bound on Bit Error Rate}{60}{section.6.1}%
+ \cftsetpnumwidth {\widthof {61}-1pt} 
+\contentsline {chapter}{外文资料译文}{61}{chapter*.39}%
+\contentsline {section}{\numberline {6.1}基于多载波索引键控的正交频分多路复用系统模型}{61}{section.6.1}%
